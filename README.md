@@ -18,6 +18,37 @@ HTML5, CSS3, and Vanilla JavaScript.
 - Contact form validation
 - FAQ disclosures using native HTML
 
+The contact form validates entries in the browser; it does not send messages to a server.
+
+## Project Structure
+
+```text
+Orbit Studio/
+├── index.html
+├── about.html
+├── services.html
+├── portfolio.html
+├── contact.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── images/
+└── README.md
+```
+
+## Screenshots
+
+Screenshots will be added here for:
+
+- Home / Hero section
+- About section
+- Portfolio projects
+- Contact section
+- Footer
+- Desktop view
+- Mobile view
+
 ## Running Locally
 
 1. Download or clone this repository.
