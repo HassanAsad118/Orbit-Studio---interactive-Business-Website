@@ -20,6 +20,10 @@ HTML5, CSS3, and Vanilla JavaScript.
 
 The contact form validates entries in the browser; it does not send messages to a server.
 
+## Live Demo
+
+[View Orbit Studio](https://hassanasad118.github.io/Orbit-Studio---interactive-Business-Website/)
+
 ## Project Structure
 
 ```text
@@ -34,20 +38,63 @@ Orbit Studio/
 ├── js/
 │   └── main.js
 ├── images/
+├── screenshots/
+├── Orbit Studio Report.pdf
 └── README.md
 ```
 
 ## Screenshots
 
-Screenshots will be added here for:
+[View the project report (PDF)](Orbit%20Studio%20Report.pdf)
 
-- Home / Hero section
-- About section
-- Portfolio projects
-- Contact section
-- Footer
-- Desktop view
-- Mobile view
+<details>
+<summary>Desktop screenshots</summary>
+
+**Home / Hero section**
+
+![Home hero section](screenshots/Hero%20section%20.png)
+
+**About section**
+
+![About section](screenshots/about%20section.png)
+
+**Projects section**
+
+![Portfolio projects](screenshots/Projects%20.png)
+
+**Contact section**
+
+![Contact section](screenshots/contact%20section.png)
+
+**Footer**
+
+![Footer](screenshots/footer.png)
+
+**Desktop view**
+
+![Desktop view](screenshots/desktop%20view.png)
+
+</details>
+
+<details>
+<summary>Mobile screenshots</summary>
+
+![Mobile view](screenshots/mobile%20view.png)
+
+![Additional mobile view](screenshots/mobile%20view%202.png)
+
+</details>
+
+<details>
+<summary>Code screenshots</summary>
+
+![HTML and CSS code](screenshots/html%20css%20code.png)
+
+![CSS code](screenshots/CSS%20code.png)
+
+![JavaScript code](screenshots/JavaScript%20Code.png)
+
+</details>
 
 ## Running Locally
 
